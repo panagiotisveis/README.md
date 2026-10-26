@@ -1,0 +1,19 @@
+# Hi there, I'm Panagiotis Veis 👋
+
+I am an Applied Mathematics and Physical Sciences student looking forward to specialize in **Machine Learning** and **Data Engineering**. I am currently based in Lausanne, Switzerland, and actively seeking a **Master Thesis Internship** to apply my background in AI to real-world industry challenges.
+
+### 🎯 Current Focus
+*   **Machine Learning:** Supervised/Unsupervised Learning, Convolutional Neural Networks (CNNs).
+*   **Natural Language Processing:** Retrieval-Augmented Generation (RAG), GraphRAG, SLMs (Qwen3).
+*   **Data Architecture:** Vector Search (FAISS), Lexical Retrieval (BM25), Knowledge Graphs.
+
+### 🛠️ Tech Stack
+*   **Languages:** Python, R
+*   **Frameworks & Libraries:** PyTorch, Hugging Face, LlamaIndex, Scikit-Learn, Pandas, NumPy, NetworkX
+*   **Tools:** Git, Google Colab, AppSheet, Microsoft Excel
+
+### 🚀 Featured Projects
+*   [**Intelligent Screenplay Analysis Pipeline**](link-to-repo): A hybrid RAG & GraphRAG system for processing and querying unstructured script data using Hugging Face, LlamaIndex, and FAISS.
+*   [**Machine Learning for Pattern Recognition**](link-to-repo): Implementation and evaluation of K-Means and Fuzzy C-Means clustering, alongside PCA/SVD for dimensionality reduction on non-linearly separable datasets.
+
+📫 **Let's connect:** [LinkedIn]() | panagiotis.veis@gmail.com
