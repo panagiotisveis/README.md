@@ -14,6 +14,6 @@ I am an Applied Mathematics and Physical Sciences student looking forward to spe
 
 ### 🚀 Featured Projects
 *   [**Intelligent Screenplay Analysis Pipeline**](link-to-repo): A hybrid RAG & GraphRAG system for processing and querying unstructured script data using Hugging Face, LlamaIndex, and FAISS.
-*   [**Machine Learning for Pattern Recognition**](link-to-repo): Implementation and evaluation of K-Means and Fuzzy C-Means clustering, alongside PCA/SVD for dimensionality reduction on non-linearly separable datasets.
+*   [**Machine Learning for Pattern Recognition**](in-progress): Implementation and evaluation of K-Means and Fuzzy C-Means clustering, alongside PCA/SVD for dimensionality reduction on non-linearly separable datasets.
 
 📫 **Let's connect:** [LinkedIn]() | panagiotis.veis@gmail.com
